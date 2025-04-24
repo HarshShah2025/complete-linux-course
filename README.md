@@ -19,11 +19,21 @@ A hands-on, beginner-to-advanced guide to mastering Linux. Practice-ready, comma
 
 ---
 
-## 🛠️ How to Use
+## 🎯 Who This Is For
 
-- Go through each numbered folder step-by-step.
-- Run the commands on a Linux VM (Ubuntu preferred).
-- Practice with tasks at the end of each section.
+- 🌱 Absolute beginners in Linux  
+- 🛠️ DevOps & SysAdmin aspirants  
+- 🎓 Students preparing for interviews  
+- 👨‍💻 Anyone curious about open source OS
+
+---
+
+## ✅ How to Use
+
+1. **Start from `01-getting-started/`**
+2. Read each `.md` file carefully.
+3. Practice every command in your terminal.
+4. Star ⭐ this repo if you find it helpful!
 
 ---
 
